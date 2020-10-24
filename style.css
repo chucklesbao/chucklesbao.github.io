@@ -48,7 +48,6 @@ img { display: block; } /* images take up their own line now */
 .para{
     width: 62%;
     margin: auto;
-    background-color: cornsilk;
     padding: 2px;
 
 }
