@@ -48,8 +48,6 @@ img { display: block; } /* images take up their own line now */
 .para{
     width: 62%;
     margin: auto;
-    padding: 2px;
-
 }
 
 #imageCenter{
@@ -65,7 +63,6 @@ img { display: block; } /* images take up their own line now */
 
 #inlineImage{
     display: inline;
-    height: 15px;
 }
 
 .flex{
