@@ -38,11 +38,6 @@ img { display: block; } /* images take up their own line now */
 /* classes and IDs */
 .green{
     color: green;
-    text-shadow: 2px 2px;
-}
-
-.bShadow{
-    box-shadow: 2px 2px;
 }
 
 .para{
