@@ -15,6 +15,7 @@ img { display: block; }
     --main-bg-color: antiquewhite;
     --text-color:black;
     --align-center: center;
+    --margins:0.5cm;
 }
 .black{
     color: var(--text-color,black);
@@ -23,7 +24,8 @@ img { display: block; }
 .para{
     width: 62%;
     margin: auto;
-    margin-bottom: 0.5cm;
+    margin-bottom: var(--margins);
+    margin-top: var(--margins);
     color: var(--text-color);
 }
 
