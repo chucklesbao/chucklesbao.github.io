@@ -23,6 +23,7 @@ img { display: block; }
 .para{
     width: 62%;
     margin: auto;
+    margin-bottom: 0.5cm;
 }
 
 #imageCenter{
