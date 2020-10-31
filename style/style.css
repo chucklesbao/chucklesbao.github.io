@@ -3,14 +3,12 @@
 
 html,
 body { /* add page background and font style/size/color */
-    margin: 0; /* removes margin by default */
+    margin: 0;
     background-color: var(--main-bg-color);
     font-size: large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-
 }
-img { display: block; } /* images take up their own line now */
+img { display: block; }
 
 
 :root{
@@ -34,7 +32,7 @@ img { display: block; } /* images take up their own line now */
 }
 
 #center{
-    text-align: center;
+    text-align: var(--align-center,center);
 }
 
 #inlineImage{
