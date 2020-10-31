@@ -8,12 +8,14 @@ body { /* add page background and font style/size/color */
     font-size: large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-img { display: block; }
 
+img {
+    display: block;
+}
 
 :root{
     --main-bg-color: antiquewhite;
-    --text-color:black;
+    --text-color: black;
     --align-center: center;
     --margins:0.5cm;
 }
