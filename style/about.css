@@ -12,7 +12,7 @@ body{
     --align-center: center;
 }
 
-.claslist{
+.classlist{
     list-style-type: none;
     text-align: center;
     list-style: inside;
