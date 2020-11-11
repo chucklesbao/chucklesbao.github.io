@@ -11,7 +11,8 @@ body{
     --text-color:black;
     --align-center: center;
 }
-ul{
+
+.claslist{
     list-style-type: none;
     text-align: center;
     list-style: inside;
