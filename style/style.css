@@ -37,7 +37,7 @@ img {
     border-radius: 25px ;
 }
 
-#center{
+.center{
     text-align: var(--align-center,center);
 }
 
