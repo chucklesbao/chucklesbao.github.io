@@ -32,13 +32,13 @@ body{
 }
 
 #backbutton{
-    
-    background-color: beige;
+    color:black;
     outline:none;
     background-repeat:no-repeat;
     border: none;
     overflow: hidden; 
     width: fit-content;
     margin: auto;
+    background: none;
     padding: 0;
 }
