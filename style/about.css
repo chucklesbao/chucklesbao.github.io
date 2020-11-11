@@ -23,3 +23,18 @@ ul{
 .black{
     color: var(--text-color,black);
 }
+
+#backbutton{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: transparent;
+    outline:none;
+    background-repeat:no-repeat;
+    border: none;
+    overflow: hidden; 
+    width: fit-content;
+    margin: auto;
+    background: none;
+    padding: 0;
+}

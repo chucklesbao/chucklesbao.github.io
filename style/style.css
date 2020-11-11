@@ -31,7 +31,6 @@ img {
     color: var(--text-color);
 }
 .picbutton{
-    display:inline-block;
     background-color: transparent;
     outline:none;
     background-repeat:no-repeat;
