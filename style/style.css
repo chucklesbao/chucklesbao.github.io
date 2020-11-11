@@ -36,6 +36,9 @@ img {
     outline:none;
     background-repeat:no-repeat;
     border: none;
+    overflow: hidden; 
+    width: auto;
+    margin: auto;
 }
 
 #imageCenter{
