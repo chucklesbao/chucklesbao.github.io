@@ -8,8 +8,12 @@ body{
 
 :root{
     --main-bg-color: antiquewhite;
-    --text-color:brown;
+    --text-color:black;
     --align-center: center;
+}
+ul{
+    display: table;
+    margin: 0 auto;
 }
 
 .center{

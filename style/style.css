@@ -30,14 +30,14 @@ img {
     margin-top: var(--margins);
     color: var(--text-color);
 }
-.buttonclear{
+.picbutton{
     display:inline-block;
     background-color: transparent;
     outline:none;
     background-repeat:no-repeat;
     border: none;
     overflow: hidden; 
-    width: auto;
+    width: fit-content;
     margin: auto;
 }
 
