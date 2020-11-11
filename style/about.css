@@ -12,6 +12,7 @@ body{
     --align-center: center;
 }
 ul{
+    list-style-type: none;
     text-align: center;
     list-style: inside;
 }
