@@ -39,6 +39,8 @@ img {
     overflow: hidden; 
     width: fit-content;
     margin: auto;
+    background: none;
+    padding: 0;
 }
 
 #imageCenter{
