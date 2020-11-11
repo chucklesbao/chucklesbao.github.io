@@ -24,11 +24,14 @@ ul{
 .black{
     color: var(--text-color,black);
 }
+.topleft{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
 
 #backbutton{
-    position: absolute;
-    top: 30px;
-    right: 10px;
+    
     background-color: transparent;
     outline:none;
     background-repeat:no-repeat;
