@@ -30,6 +30,11 @@ img {
     margin-top: var(--margins);
     color: var(--text-color);
 }
+.buttonclear{
+    display:inline-block;
+    background-color: transparent;
+    outline:none;
+}
 
 #imageCenter{
     margin: auto;

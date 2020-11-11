@@ -12,7 +12,7 @@ body{
     --align-center: center;
 }
 
-#center{
+.center{
     text-align: var(--align-center,center);
 }
 
